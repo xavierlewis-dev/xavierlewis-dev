@@ -1,4 +1,6 @@
-## Hi there 👋
+# Xavier Lewis
+
+### Software Developer & Data Analyst
 
 <!--
 **xavierlewis-dev/xavierlewis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
