@@ -1,10 +1,21 @@
 # Xavier Lewis
 
-### Software Developer & Data Analyst
+## Software Developer • Data Analyst
 
 I'm a Software Development and Data Analytics student who enjoys building applications, working with data, and learning how things work under the hood.
 
 I'm currently finishing my bachelor's degree and building projects that strengthen both my software development and data analytics skills.
+
+## Tech Stack
+
+### Language & Web
+Java • JavaScript • SQL • HTML • CSS
+
+### Frameworks & Technologies 
+React • Docker • Node.js • Express.js
+
+### Tools
+Git • GitHub
 
 <!--
 **xavierlewis-dev/xavierlewis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
