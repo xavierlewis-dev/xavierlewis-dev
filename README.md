@@ -31,7 +31,12 @@ A Java-based video processing application that analyzes video frames to detect a
 
 **Tech:** Java • JavaScript • Node.js • Express.js • FFMpeg • Jest • Supertest • Maven • CSV
 
-### Truffula
+## Education
+
+- Completed my AS in Software Development & Data Analytics
+- Finishing my BA in Software Development
+- Expanding my skills in software development and cloud technologies
+- Building new projects throughout my final semester
 <!--
 **xavierlewis-dev/xavierlewis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
