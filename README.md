@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Xavier Lewis - Software Developer and Data Analyst" width="100%">
+</p>
+
 # Xavier Lewis
 
 ## Software Developer • Data Analyst
