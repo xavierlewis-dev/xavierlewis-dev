@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff381c53-7f56-4cc8-bfe5-ea8b6e2ae2f0" /># Xavier Lewis
+# Xavier Lewis
 
 ## Software Developer • Data Analyst
 
