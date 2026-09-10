@@ -37,6 +37,10 @@ A Java-based video processing application that analyzes video frames to detect a
 - Finishing my BA in Software Development
 - Expanding my skills in software development and cloud technologies
 - Building new projects throughout my final semester
+
+## Connect With Me
+
+[LinkedIn](www.linkedin.com/in/xavierlewis-swd)
 <!--
 **xavierlewis-dev/xavierlewis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
