@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Xavier Lewis - Software Developer and Data Analyst" width="100%">
+  <img src="ChatGPT Image Sep 9, 2026, 08_27_05 PM.png" alt="Xavier Lewis - Software Developer and Data Analyst" width="100%">
 </p>
 
 # Xavier Lewis
