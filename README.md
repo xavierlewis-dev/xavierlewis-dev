@@ -2,6 +2,13 @@
   <img src="ChatGPT Image Sep 9, 2026, 08_27_05 PM.png" alt="Xavier Lewis - Software Developer and Data Analyst" width="100%">
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;Building+%7C+Learning+%7C+Improving"
+    alt="Typing animation"
+  />
+</p>
+
 # Xavier Lewis
 
 ## Software Developer • Data Analyst
