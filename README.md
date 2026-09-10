@@ -1,4 +1,4 @@
-# Xavier Lewis
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff381c53-7f56-4cc8-bfe5-ea8b6e2ae2f0" /># Xavier Lewis
 
 ## Software Developer • Data Analyst
 
@@ -17,6 +17,17 @@ React • Docker • Node.js • Express.js
 ### Tools
 Git • GitHub
 
+## Featured Projects
+
+### [Salamander Tracker] (https://github.com/xavierlewis-dev/salamander-tracker)
+
+A React-based frontend application for detecting salamander movement in video footage using interactive controls and visual feedback. Connects to a backend system responsible for video processing and detection.
+
+**Tech:** React • JavaScript • HTML • CSS • Vite
+
+### Centroid Finder
+
+### Truffula
 <!--
 **xavierlewis-dev/xavierlewis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
