@@ -25,7 +25,11 @@ A React-based frontend application for detecting salamander movement in video fo
 
 **Tech:** React • JavaScript • HTML • CSS • Vite
 
-### Centroid Finder
+### [Centroid Finder] (https://github.com/xavierlewis-dev/centroid-finder)
+
+A Java-based video processing application that analyzes video frames to detect and track the centroid position of a salamander over time. Designed to provide the detection data used by the Salamander Tracker interface. 
+
+**Tech:** Java • JavaScript • Node.js • Express.js • FFMpeg • Jest • Supertest • Maven • CSV
 
 ### Truffula
 <!--
